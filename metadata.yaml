@@ -1,0 +1,29 @@
+_repo: A-brief-sketch-of-the-work-of-Matthew-Fontaine-Maury-during-the-war-1861-1865_34068
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maury, Richard L. (Richard Lancelot)
+    alias: Maury, Dick
+    birthdate: 1840
+    deathdate: 1907
+    gutenberg_agent_id: '36731'
+    url: http://www.gutenberg.org/2009/agents/36731
+description: ''
+gutenberg_issued: '2010-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34068'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Maury, Matthew Fontaine, 1806-1873'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Naval operations'
+- !lcsh 'Torpedoes'
+title: A brief sketch of the work of Matthew Fontaine Maury during the war, 1861-1865
+url: http://www.gutenberg.org/ebooks/34068
