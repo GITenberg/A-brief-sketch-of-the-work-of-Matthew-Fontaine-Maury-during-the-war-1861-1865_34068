@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36731'
     url: http://www.gutenberg.org/2009/agents/36731
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34068#A-brief-sketch-of-the-work-of-Matthew-Fontaine-Maury-during-the-war-1861-1865
 gutenberg_issued: '2010-10-14'
 gutenberg_type: Text
 identifiers:
